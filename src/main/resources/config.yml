@@ -1,0 +1,12 @@
+use-mysql: true
+
+#Ignore caso a opção 'use-mysql' esteja marcada como false.
+mysql:
+  user:
+  password:
+  host:
+  port:
+  database:
+
+discordhook: false
+discordurl: 'https://discord.com/api/webhooks/1140425014571704420/CIYwzxajjyFvzjpHkm4TkhTMwRApCufdOxzYrUY61_PKm4TVF3K4sNIXvYiK28Dw7c7T'

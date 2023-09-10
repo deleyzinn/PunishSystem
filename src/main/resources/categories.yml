@@ -1,0 +1,9 @@
+punishments:
+  'CHEATING': #NOME DA CATEGORIA
+    defaultTime: "-1"
+    description: "Uso de trapaças." #Motivo transcrito
+    type: "BAN" #Utilizar de BAN OU MUTE
+  'SPAM':
+    defaultTime: "1h"
+    description: "Spam/Flood."
+    type: "MUTE"
